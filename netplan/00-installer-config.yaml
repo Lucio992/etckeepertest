@@ -1,0 +1,12 @@
+# This is the network config written by 'subiquity'
+network:
+  ethernets:
+    enp1s0:
+      dhcp4: true
+      optional: true
+    enp2s0:
+      dhcp4: true
+      optional: true
+  wifi:
+    wlan1: gg 
+  version: 2
