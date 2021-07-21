@@ -56,5 +56,3 @@ lxd:x:116:ubuntu
 systemd-coredump:x:999:
 ubuntu:x:1000:
 ssl-cert:x:117:
-postfix:x:118:
-postdrop:x:119:
